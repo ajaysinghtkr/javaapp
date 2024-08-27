@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         // Specify the Maven version you have configured in Jenkins
-        maven 'Maven'
+        maven 'maven'
     }
 
     stages {
